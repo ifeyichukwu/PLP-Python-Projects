@@ -1,0 +1,6 @@
+Hello,
+ My name is Gospel Arinze. I am a student of LAgos State University. 
+ One interesting thing about me is that, I enjoy good music, and I also compose songs for God. 
+ I am from a beautiful family of God, and an heir of His Kingdom. 
+ Everything I know comes from God. I am grateful for His abundant support towards meThis is an update to this file based on the assignment instructions.This is an update to this file based on the assignment instructions.
+This is an update to the file input.txt, to be sent to the new_file.txt
